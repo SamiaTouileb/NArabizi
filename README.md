@@ -8,7 +8,7 @@ This corpus is built on top of the NArabizi treebank by [*Seddah et all., 2020*]
 
 The extentions to the treebank are added in the *.conllu* files, split into pre-defined train, dev, and test sets (as inherited from the original NArabizi treebank). 
 
-The sentiment and topic annotations are presented as one sentence per line, following the format "*conllu_ID annotation*".
+The sentiment and topic annotations are presented as one sentence per line, following the format "*conllu_ID \t annotation*".
 
 
 # Cite
