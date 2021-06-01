@@ -2,7 +2,7 @@
 
 This dataset is described in the paper ["*The interplay between language similarity and script on a novel multi-layer Algerian dialect corpus*"](https://arxiv.org/abs/2105.07400) by Samia Touileb and Jeremy Barnes, accepted at Findings of ACL: ACL2021.
 
-This corpus is built on top of the NArabizi treebank by ["*Seddah et all., 2020*"](https://www.aclweb.org/anthology/2020.acl-main.107/) freely available ["*here*"](https://parsiti.github.io/NArabizi/). 
+This corpus is built on top of the NArabizi treebank by [*Seddah et all., 2020*](https://www.aclweb.org/anthology/2020.acl-main.107/) freely available ["*here*"](https://parsiti.github.io/NArabizi/). 
 
 # Format and pre-processing
 
