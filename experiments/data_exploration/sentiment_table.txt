@@ -1,0 +1,7 @@
+    Original & Narabizi & & \\
+    Arabic Script & Algerian & & \\
+    \script{Script}  & Persian & &\\
+    \script{Script}  & Urdu &  &  \\
+    \typology{Typology}  & Hebrew & & \\
+    \typology{Typology}  & Maltese & & \\
+    \both{Both}  & Arabic & & \\

@@ -1,0 +1,17 @@
+There were some compound POS tags in the UPOS column.
+
+Train:
+
+# sent_id = 24-49: VERB+PRON -> VERB | ADP+NOUN -> NOUN
+
+Dev:
+
+# sent_id = 4435: PART+VERB -> VERB
+# sent_id = 4435: ADP+PRON -> PRON
+# sent_id = 1364: ADP+PRON -> PRON
+# sent_id = 2452: ADP+PRON -> PRON
+# sent_id = 2755: ADP+PRON -> PRON
+# sent_id = 4686: ADP+PRON -> PRON
+# sent_id = 4610: ADP+PRON -> PRON
+# sent_id = 4686: ADP+ADJ -> ADJ
+# sent_id = 1867: PRO -> PRON

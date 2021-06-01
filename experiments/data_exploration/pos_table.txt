@@ -1,0 +1,13 @@
+    Original & Narabizi & & \\
+    Arabic Script & Algerian & & \\
+    \script{Script}  & Persian & &\\
+    \script{Script} & Uyghur & &  \\
+    \script{Script}  & Urdu &  &  \\
+    \script{Script} & Nayini & &  \\
+    \typology{Typology}  & Hebrew & & \\
+    \typology{Typology}  & Amharic & & \\
+    \typology{Typology}  & Akkadian & & \\
+    \typology{Typology}  & Assyrian & & \\
+    \typology{Typology}  & Maltese & & \\
+    \both{Both}  & South Levantine Arabic & & \\
+    \both{Both}  & Arabic & & \\
